@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SeuAnimal</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastro">Cadastre-se</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="esqueceuasenha">Esqueceu a senha?</string>
+    <string name="cadastre">Cadastre-se</string>
+    <string name="recuperarSenha">Problemas com a sua conta?</string>
+    <string name="emailRecuperarConta">Digite seu email</string>
+    <string name="RecuperarSenha">Recuperar Conta</string>
+</resources>
