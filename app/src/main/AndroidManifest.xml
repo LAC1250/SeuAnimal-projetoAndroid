@@ -14,6 +14,15 @@
         android:theme="@style/Theme.SeuAnimal"
         tools:targetApi="31">
         <activity
+            android:name=".ListagemGato"
+            android:exported="false" />
+        <activity
+            android:name=".ListagemDog"
+            android:exported="false" />
+        <activity
+            android:name=".Listagem"
+            android:exported="false" />
+        <activity
             android:name=".RecuperarSenha"
             android:exported="false" />
         <activity

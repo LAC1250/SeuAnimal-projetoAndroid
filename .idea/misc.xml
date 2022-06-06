@@ -7,9 +7,18 @@
         <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/drawable/button.xml" value="0.2025" />
         <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/drawable/container_components.xml" value="0.1" />
         <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/drawable/edit_text.xml" value="0.1" />
-        <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/layout/activity_cadastro_user.xml" value="0.16" />
-        <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/drawable/logout.xml" value="0.2065" />
+        <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/layout/activity_cadastro_user.xml" value="0.22" />
+        <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/layout/activity_listagem.xml" value="0.25" />
+        <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/layout/activity_listagem_cat.xml" value="0.25" />
+        <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/layout/activity_listagem_dog.xml" value="0.22" />
+        <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/layout/activity_listagem_gato.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/layout/activity_listagem_gato2.xml" value="0.10834088848594742" />
+        <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/layout/activity_recuperar_senha.xml" value="0.2" />
+        <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/layout/cats.xml" value="0.25" />
+        <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/layout/dog.xml" value="0.25" />
+        <entry key="..\:/Users/55679/AndroidStudioProjects/SeuAnimal/app/src/main/res/layout/dogs.xml" value="0.1" />
       </map>
     </option>
   </component>

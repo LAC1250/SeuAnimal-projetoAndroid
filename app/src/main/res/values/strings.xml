@@ -8,4 +8,8 @@
     <string name="recuperarSenha">Problemas com a sua conta?</string>
     <string name="emailRecuperarConta">Digite seu email</string>
     <string name="RecuperarSenha">Recuperar Conta</string>
+    <string name="sair">Sair</string>
+    <string name="dog">Cachorros</string>
+    <string name="cat">Gatos</string>
+    <string name="ola">Olá, </string>
 </resources>

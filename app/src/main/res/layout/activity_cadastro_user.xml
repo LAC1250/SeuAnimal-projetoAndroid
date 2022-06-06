@@ -19,21 +19,13 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         />
-    <EditText
-        android:id="@+id/edit_nome"
-        style="@style/Edit_Text"
-        android:layout_marginTop="200dp"
-        android:hint="nome"
-        android:inputType="text"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+
     <EditText
         android:id="@+id/edit_email_cad"
         style="@style/Edit_Text"
-        android:layout_marginTop="296dp"
-        android:hint="email"
+        android:layout_marginTop="232dp"
         android:drawableRight="@drawable/ic_email"
+        android:hint="email"
         android:inputType="textEmailAddress"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
