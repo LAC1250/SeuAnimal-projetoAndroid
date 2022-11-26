@@ -4,4 +4,4 @@
 
 -- App para adoção de gatos e cachorros.
 
-obs: a listagem são dados estáticos;
+obs: na listagem os dados estão estáticos;
